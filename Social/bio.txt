@@ -1,0 +1,6 @@
+Döngüyü tamamlayan otonom yapay zeka agent'ları. Operasyonel iş yükünüzü devredin; planlama, yürütme ve takip Lupra'da. → lupra.app
+
+
+
+
+Autonomous AI agents that close the loop. Delegate operational work — planning, execution, and follow-through, handled. → lupra.app

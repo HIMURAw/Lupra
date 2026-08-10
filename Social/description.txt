@@ -1,0 +1,39 @@
+Lupra, işletmelerin operasyonel süreçlerini otonom yapay zeka agent'larına devretmesini sağlayan bir Agent-as-a-Service platformudur. Görevi tanımlayın; Lupra planlar, yürütür ve sonuçlandırır.
+
+
+
+Lupra is an Agent-as-a-Service platform that enables businesses to delegate operational workflows to autonomous AI agents. Define the task; Lupra plans, executes, and delivers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lupra is an Agent-as-a-Service platform that enables businesses to delegate time-intensive operational processes — data handling, reporting, follow-ups, and routine workflows — to autonomous AI agents.
+
+Our approach rests on three principles: reliability, transparency, and finished work. Lupra's agents don't merely initiate tasks; they manage the process end to end, report progress, and deliver outcomes. The open ring in our mark represents the delegated task loop; the dot is Lupra, completing it.
+
+Lupra is under active development. For early access and partnerships: lupra.app
+
+
+
+
+
+
+Lupra, işletmelerin zaman ve kaynak tüketen operasyonel süreçlerini — veri işleme, raporlama, takip ve rutin iş akışları — otonom yapay zeka agent'larına devretmesini sağlayan bir Agent-as-a-Service platformudur.
+
+Yaklaşımımız üç ilkeye dayanır: güvenilirlik, şeffaflık ve tamamlanmış iş. Lupra'nın agent'ları yalnızca görev başlatmaz; süreci uçtan uca yönetir, ilerlemeyi raporlar ve sonucu teslim eder. Markamızdaki eksik halka devredilen görev döngüsünü, onu tamamlayan nokta ise Lupra'yı temsil eder.
+
+Lupra aktif geliştirme aşamasındadır. Erken erişim ve iş birlikleri için: lupra.app
